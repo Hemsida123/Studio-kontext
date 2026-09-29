@@ -1,0 +1,110 @@
+{
+  "name": "Studio Kontext",
+  "source": "https://www.studiokontext.com/studio-kontext-1",
+  "contactSource": "https://www.studiokontext.com/kontakt",
+  "founded": 2020,
+  "base": "Karlskrona",
+  "about": "Studio Kontext är en arkitektstudio grundad av Johan Stenbeck 2020. Studion arbetar med nya och befintliga miljöer, främst villor, fritidshus samt till- och ombyggnader. Arbetet tar avstamp i samspelet mellan människan, platsen och en bärande arkitektonisk idé.",
+  "region": [
+    "Karlskrona",
+    "Ronneby",
+    "Karlshamn",
+    "Blekinges skärgård"
+  ],
+  "services": [
+    "Behovsundersökning, registrering, uppmätning och analys",
+    "Idéupplägg och byggprogram",
+    "Visualisering och förmedling",
+    "Produkt- och metodutveckling",
+    "Skisser och projektförslag",
+    "Förstudier och myndighetsansökningar",
+    "Expertis och kvalitetssäkring under utförande",
+    "Fristående konsultering på plats",
+    "Projektering"
+  ],
+  "disciplines": [
+    "Arkitektur och planering",
+    "Offentlig utsmyckning",
+    "Grafisk design",
+    "Illustration och grafik"
+  ],
+  "contact": {
+    "phone": "+46 709 - 43 08 78",
+    "phoneHref": "tel:+46709430878",
+    "email": "studiokontext00@gmail.com",
+    "addresses": [
+      {
+        "street": "Herrgårdsviksvägen 22",
+        "postalCode": "373 63",
+        "city": "Tjurkö"
+      },
+      {
+        "street": "Kapellgatan 18 U",
+        "postalCode": "214 21",
+        "city": "Malmö"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/studio.kontext/"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/StudioKontext"
+    }
+  ],
+  "people": [
+    {
+      "name": "Johan Stenbeck",
+      "role": "Grundare / Arkitekt, SAR / MSA",
+      "bio": "Arkitekt med masterexamen från Det Kongelige Akademi i Köpenhamn och bakgrund inom konst samt grafisk design. Tidigare erfarenhet från bland andra Wingårdhs, Horisont och AloCo.",
+      "cv": "https://www.studiokontext.com/s/20260210_JohanStenbeck_CV.pdf",
+      "image": {
+        "source": "https://images.squarespace-cdn.com/content/v1/5f478097e47e4b39a05955ac/1601551319663-VBN3IN8CST5CPBV3ZJ1P/2020-09-30-0002.jpg",
+        "width": 1082,
+        "height": 1633,
+        "sourceAlt": "",
+        "src": "/assets/johan-stenbeck.jpg",
+        "alt": "Johan Stenbeck",
+        "credit": "Foto: Leo Åkesson",
+        "originalWidth": 1082,
+        "originalHeight": 1633,
+        "bytes": 262668,
+        "downloadUrl": "https://images.squarespace-cdn.com/content/v1/5f478097e47e4b39a05955ac/1601551319663-VBN3IN8CST5CPBV3ZJ1P/2020-09-30-0002.jpg"
+      }
+    },
+    {
+      "name": "Louise Möller",
+      "role": "Arkitekt, MSA",
+      "bio": "Arkitekt med inriktning mot kulturarv, transformation och restaurering. Masterexamen från Det Kongelige Akademi i Köpenhamn och vidareutbildning inom byggnadsvård på Capellagården.",
+      "image": {
+        "source": "https://images.squarespace-cdn.com/content/v1/5f478097e47e4b39a05955ac/22fe2b42-20ef-4664-b7d9-1794fb1d0f1a/profilbild01.jpg",
+        "width": 1657,
+        "height": 2486,
+        "sourceAlt": "",
+        "src": "/assets/louise-moller.jpg",
+        "alt": "Louise Möller",
+        "credit": null,
+        "originalWidth": 1657,
+        "originalHeight": 2486,
+        "bytes": 525698,
+        "downloadUrl": "https://images.squarespace-cdn.com/content/v1/5f478097e47e4b39a05955ac/22fe2b42-20ef-4664-b7d9-1794fb1d0f1a/profilbild01.jpg"
+      }
+    }
+  ],
+  "logo": {
+    "source": "https://images.squarespace-cdn.com/content/v1/5f478097e47e4b39a05955ac/1601359116313-D3GQML52I3KBXZ8PJ6SS/SK_logotyp_lila-01.png",
+    "width": 201,
+    "height": 373,
+    "sourceAlt": "studio kontext",
+    "src": "/assets/studio-kontext-logo.png",
+    "alt": "Studio Kontext",
+    "credit": null,
+    "originalWidth": 0,
+    "originalHeight": 0,
+    "bytes": 2419,
+    "downloadUrl": "https://images.squarespace-cdn.com/content/v1/5f478097e47e4b39a05955ac/1601359116313-D3GQML52I3KBXZ8PJ6SS/SK_logotyp_lila-01.png?format=1500w"
+  }
+}
